@@ -1,5 +1,3 @@
-package praktikum.praktikum7;
-
 public abstract class Kue {
     String nama;
     double harga;
