@@ -1,5 +1,3 @@
-package praktikum.praktikum7;
-
 public class KuePesanan extends Kue {
     private double berat;
 
