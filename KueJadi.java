@@ -17,6 +17,6 @@ public class KueJadi extends Kue {
 
     @Override
     public String toString() {
-        return "Nama Kue: " + nama + "\nHarga: Rp" + hitungHarga();
+        return "[KUE JADI]" + "\nNama Kue: " + nama + "\nHarga: Rp" + hitungHarga();
     }
 }
