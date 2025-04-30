@@ -1,5 +1,3 @@
-package praktikum.praktikum7;
-
 public class KueJadi extends Kue {
     private double jumlah;
 
